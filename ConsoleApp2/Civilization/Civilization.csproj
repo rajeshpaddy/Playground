@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Authors>Rajesh</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.11</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NamesGenerator" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
